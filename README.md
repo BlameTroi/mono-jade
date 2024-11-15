@@ -4,4 +4,3 @@ Install with a package manager:
 
 vim.cmd("colo mono-jade")
     
-})
