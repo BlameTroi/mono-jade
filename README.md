@@ -7,4 +7,4 @@ vim.cmd("colo mono-jade")
 
 # Screenshot
 
-![screenshot](./preview/mono-jade/screenshot.png)
+![screenshot](./preview/screenshot.png)
