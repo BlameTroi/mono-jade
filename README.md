@@ -3,8 +3,7 @@ Install with a package manager:
 {"masar3141/mono-jade.vim"}
 
 vim.cmd("colo mono-jade")
-    
+```
 
 # Screenshot
-
-![screenshot](./preview/go.png)
+![screenshot](preview/go.png)
