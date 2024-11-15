@@ -9,7 +9,6 @@ hi Identifier guifg=#A5BFB9 guibg=NONE
 hi Function guifg=#A5BFB9 guibg=NONE
 
 hi PMenuSel guifg=#717F7E guibg=NONE
-hi Constant guifg=#717F7E guibg=NONE
 hi Repeat guifg=#717F7E guibg=NONE
 hi DiffAdd guifg=#717F7E guibg=NONE
 hi GitGutterAdd guifg=#717F7E guibg=NONE
@@ -26,6 +25,7 @@ hi String guifg=#71797F guibg=NONE
 
 hi MatchParen guifg=#0a0a0a guibg=#D3B5BA
 
+hi Constant guifg=#d4d4d5 guibg=NONE
 hi Directory guifg=#d4d4d5 guibg=NONE
 hi DiffText guifg=#d4d4d5 guibg=NONE
 hi ErrorMsg guifg=#d4d4d5 guibg=NONE
